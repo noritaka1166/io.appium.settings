@@ -1,3 +1,9 @@
+## [8.0.6](https://github.com/appium/io.appium.settings/compare/v8.0.5...v8.0.6) (2026-08-10)
+
+### Miscellaneous Chores
+
+* **deps:** bump gradle-wrapper from 9.6.1 to 9.7.0 ([#313](https://github.com/appium/io.appium.settings/issues/313)) ([7b0746c](https://github.com/appium/io.appium.settings/commit/7b0746c815789822f04847987dc91ee6e96e6ca0))
+
 ## [8.0.5](https://github.com/appium/io.appium.settings/compare/v8.0.4...v8.0.5) (2026-07-28)
 
 ### Miscellaneous Chores
