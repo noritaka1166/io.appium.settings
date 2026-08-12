@@ -1,3 +1,9 @@
+## [8.0.8](https://github.com/appium/io.appium.settings/compare/v8.0.7...v8.0.8) (2026-08-12)
+
+### Bug Fixes
+
+* Make GPS location emulation reliable without Google Play Services ([#315](https://github.com/appium/io.appium.settings/issues/315)) ([348f085](https://github.com/appium/io.appium.settings/commit/348f0858960a2ab6cbae4bfe5613095e6e9e9ab2))
+
 ## [8.0.7](https://github.com/appium/io.appium.settings/compare/v8.0.6...v8.0.7) (2026-08-12)
 
 ### Bug Fixes
