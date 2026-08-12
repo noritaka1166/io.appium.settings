@@ -1,3 +1,9 @@
+## [8.0.7](https://github.com/appium/io.appium.settings/compare/v8.0.6...v8.0.7) (2026-08-12)
+
+### Bug Fixes
+
+* Run mock location updates on a low-priority background thread ([#314](https://github.com/appium/io.appium.settings/issues/314)) ([b860d50](https://github.com/appium/io.appium.settings/commit/b860d50ac8f39285f0490752f2d5287fda5b04e3))
+
 ## [8.0.6](https://github.com/appium/io.appium.settings/compare/v8.0.5...v8.0.6) (2026-08-10)
 
 ### Miscellaneous Chores
